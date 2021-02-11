@@ -1,0 +1,27 @@
+{
+    "name": "maersk-vue-extension",
+    "displayName": "Maersk Vue VSCode Extension",
+    "publisher": "alexAbela",
+    "description": "A collection of the extensions used by developers working with Vue at Maersk",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "maersk",
+        "vuejs",
+        "vue",
+        "extension pack",
+        "vue extension collection"
+    ],
+    "extensionPack": [ 
+        "dbaeumer.vscode-eslint",
+        "stylelint.vscode-stylelint",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "wix.vscode-import-cost",
+        "octref.vetur"
+    ]
+}
