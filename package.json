@@ -3,10 +3,23 @@
     "displayName": "Maersk Vue VSCode Extension",
     "publisher": "alexAbela",
     "description": "A collection of the extensions used by developers working with Vue at Maersk",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "galleryBanner": {
+        "color": "#42B0D5",
+        "theme": "dark"
+      },
     "engines": {
         "vscode": "^1.53.0"
     },
+    "icon": "maersk-vue-logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexAbela/maersk-vue-extension"
+      },
+      "homepage": "https://github.com/alexAbela/maersk-vue-extension",
+      "bugs": {
+        "url": "https://github.com/alexAbela/maersk-vue-extension/issues"
+      },
     "categories": [
         "Extension Packs"
     ],
