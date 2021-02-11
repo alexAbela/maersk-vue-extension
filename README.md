@@ -1,6 +1,6 @@
 # Maersk Vue VSCode Extension Collection
 
-A collection of the extensions used by developers working with Vue at Maersk. 
+A collection of the extensions used by developers working with Vue in VS Code at Maersk. 
 
 To make it easier for developers to install all the relevant extesions at once. 
 
