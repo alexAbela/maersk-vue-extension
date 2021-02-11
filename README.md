@@ -6,13 +6,13 @@ To make it easier for developers to install all the relevant extesions at once.
 
 ## Extensions Include
 
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint):
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Integreates ESLint into VS Code. Used as a static code analysis tool for identifying problematic patterns found in JavaScript code. 
 
-- [styleling](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint):
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint): A Visual Studio Code extension to lint CSS/SCSS/Less with stylelint.
 
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2):
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2): This extension allows matching brackets to be identified with colours. You can define which which tokens to match and which colours to use.
 
-- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost):
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost): This extension will display inline in the editor the size of the imported package.
 
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur): Includes support for .vue files, including but not limited to: Syntax-highlighting, Emmet, Linting / Error Checking, Formatting, Auto Completion, Debugging
 
