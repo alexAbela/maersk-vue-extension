@@ -3,7 +3,7 @@
     "displayName": "Maersk Vue VSCode Extension",
     "publisher": "alexAbela",
     "description": "A collection of the extensions used by developers working with Vue at Maersk",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "galleryBanner": {
         "color": "#42B0D5",
         "theme": "dark"
