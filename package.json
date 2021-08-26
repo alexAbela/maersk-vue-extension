@@ -35,6 +35,7 @@
         "stylelint.vscode-stylelint",
         "CoenraadS.bracket-pair-colorizer-2",
         "wix.vscode-import-cost",
-        "octref.vetur"
+        "octref.vetur",
+        "rangav.vscode-thunder-client"
     ]
 }
