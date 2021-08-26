@@ -16,5 +16,6 @@ To make it easier for developers to install all the relevant extensions at once.
 
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur): Includes support for .vue files, including but not limited to: Syntax-highlighting, Emmet, Linting / Error Checking, Formatting, Auto Completion, Debugging
 
+- [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client): Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code.
 
 If there are any extensions you think should be included please feel free to contact me or mention them under issues. 
